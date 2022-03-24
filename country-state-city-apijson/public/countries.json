@@ -1,0 +1,14 @@
+{
+    "countries" : [
+        { "name": "Philippines", "states": [ 
+            {"name": "Central Luzon", "cities": ["Angeles City", "Olongapo", "San Fernando"]},
+            {"name": "NCR", "cities": ["Pasay City", "Makati", "Marikina"]}
+        ]},
+        { "name": "United States of America", "states": [ 
+            {"name": "California", "cities": ["Sacramento", "Los Angeles", "Bakersfield", "Carson"]},
+            {"name": "Florida", "cities": ["Tallahassee", "Jacksonville"]},
+            {"name": "Illinois", "cities": ["Springfield", "Chicago"]},
+            {"name": "New Jersey", "cities": ["Trenton", "Newark"]}
+        ]}             
+    ]
+}
